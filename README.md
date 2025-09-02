@@ -39,8 +39,8 @@ This framework has been applied in a **fintech collections call center** to eval
 - Improve overall customer satisfaction.  
 
 Download the QA Metric Sheet  
-- [Download QA_Metrics.xlsx](https://github.com/Raphael-1z/Call-Center-QA-Metrics/raw/main/QA_Metrics.xlsx)  
-- [Download QA_Metrics.csv](https://github.com/Raphael-1z/Call-Center-QA-Metrics/raw/main/QA_Metrics.csv)  
+- [Download QA ASSESSMENT SHEET.xlsx](https://github.com/Raphael-1z/QA-METRIC-FOR-CALL-CENTERS/raw/main/QA%20ASSESSMENT%20SHEET.xlsx)
+- [Download QA_Metrics.csv](https://github.com/Raphael-1z/Call-Center-QA-Metrics/raw/main/QA%20ASSESSMENT%20SHEET.csv)  
 
 License  
 This project is licensed under the [MIT License](LICENSE), allowing others to use and adapt it freely.  
