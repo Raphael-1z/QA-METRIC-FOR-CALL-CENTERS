@@ -1,15 +1,15 @@
-# Call Center QA Metrics  
+Call Center QA Metrics  
 
-## 📌 Overview  
+Overview  
 This project contains a **Quality Assurance (QA) evaluation framework** I developed for a collections call center. The framework provides a structured way to measure agent performance, ensuring compliance, professionalism, and effective customer interactions.  
 
-## 🎯 Purpose  
+Purpose  
 - Establish a consistent and measurable evaluation process.  
 - Highlight top-performing agents and identify areas for improvement.  
 - Improve customer experience through actionable feedback.  
 - Support compliance with organizational and regulatory standards.  
 
-## 📊 Metrics Covered  
+Metrics Covered  
 The QA framework evaluates agents on:  
 - Call Adherence & Compliance  
 - Communication Skills & Clarity  
@@ -22,21 +22,21 @@ The QA framework evaluates agents on:
 
 Each factor contributes to an overall performance score, enabling trend analysis and targeted coaching.  
 
-## 🛠 File Contents  
+File Contents  
 - **QA_Metrics.xlsx / QA_Metrics.csv** – Main evaluation sheet.  
 - **Scoring Guide** – Explanation of how scores are calculated.  
 
-## 🚀 How to Use  
+How to Use  
 1. Download the spreadsheet.  
 2. Enter call evaluation data for agents.  
 3. The sheet auto-calculates performance scores.  
 4. Use results to track **top performers**, **areas of concern**, and **positive trends**.  
 
-## 🌍 Impact  
+Impact  
 This framework has been applied in a **fintech collections call center** to evaluate 30+ agents, helping management:  
 - Spot training needs.  
 - Reduce compliance risks.  
 - Improve overall customer satisfaction.  
 
-## 📖 License  
+License  
 This project is licensed under the [MIT License](LICENSE), allowing others to use and adapt it freely.  
