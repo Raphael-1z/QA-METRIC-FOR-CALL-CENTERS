@@ -38,5 +38,9 @@ This framework has been applied in a **fintech collections call center** to eval
 - Reduce compliance risks.  
 - Improve overall customer satisfaction.  
 
+Download the QA Metric Sheet  
+- [Download QA_Metrics.xlsx](https://github.com/Raphael-1z/Call-Center-QA-Metrics/raw/main/QA_Metrics.xlsx)  
+- [Download QA_Metrics.csv](https://github.com/Raphael-1z/Call-Center-QA-Metrics/raw/main/QA_Metrics.csv)  
+
 License  
 This project is licensed under the [MIT License](LICENSE), allowing others to use and adapt it freely.  
